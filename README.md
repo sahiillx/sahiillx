@@ -10,12 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Next.js<br>🎯 Goals:</p>
-- Master advanced JavaScript
-- Contribute to the Next.js community
-- Attend tech conferences
-<p align="left"> 🎲 Fun fact: </p>
-- I built my first website when I was 15 years old.
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Next.js<br>🎯 Goals: Contribute to the Next.js community <br>🎲 Fun fact: I built my first website when I was 15 years old. </p>
 
 
 ###
