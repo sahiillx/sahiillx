@@ -11,9 +11,9 @@
 ###
 
 <p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Next.js<br>🎯 Goals: <br>
-- Master advanced JavaScript
-- Contribute to the Next.js community
-- Attend tech conferences
+- Master advanced JavaScript <br>
+- Contribute to the Next.js community <br>
+- Attend tech conferences <br>
   <br>🎲 Fun fact: <br>
 - I built my first website when I was 15 years old.
 </p>
