@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">>I'm Sahil Khan, a passionate Data Engineer from Delhi, India. I specialize in building scalable data pipelines, optimizing databases, and working with cloud-based data solutions.</p>
+<p align="left">I'm Sahil Khan, a passionate Data Engineer from Delhi, India. I specialize in building scalable data pipelines, optimizing databases, and working with cloud-based data solutions.</p>
 
 ###
 
@@ -38,7 +38,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="40" alt="AWS logo"  />
+  
 </div>
 
 ###
