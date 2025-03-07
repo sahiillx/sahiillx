@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Sahil Khan and I'm a Frontend Developer from Delhi | India</p>
+<p align="left">>I'm Sahil Khan, a passionate Data Engineer from Delhi, India. I specialize in building scalable data pipelines, optimizing databases, and working with cloud-based data solutions.</p>
 
 ###
 
@@ -10,33 +10,54 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Next.js<br>🎯 Goals: Contribute to the Next.js community <br>🎲 Fun fact: I built my first website when I was 15 years old. </p>
 
+<p align="left">
+✨ Working with data to solve real-world problems <br>
+📚 Currently pursuing IBM Professional Data Engineering Certification <br>
+🚀 Building data pipelines and ETL workflows <br>
+🎯 Goals: Master big data technologies and contribute to open-source data projects <br>
+🎲 Fun fact: I love optimizing queries just as much as I love coffee! 
+</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Tech Stack</h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQL logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="Apache Spark logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=styledcomponents" height="40" alt="styledcomponents logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="40" alt="AWS logo"  />
 </div>
 
 ###
 
 <img src="https://raw.githubusercontent.com/sahiillx/sahiillx/output/snake.svg" alt="Snake animation" />
 
+
+###
+
+<h2 align="left">Currently Learning</h2>
+
+###
+
+<p align="left">
+✔️ Data Engineering Fundamentals (SQL, ETL, Data Pipelines)<br>
+✔️ Big Data Technologies (Apache Spark, Hadoop)<br>
+✔️ Cloud Data Solutions (AWS, GCP)<br>
+✔️ Data Warehousing & Streaming (Snowflake, Kafka)
+</p>
 ###
 
 <div align="left">
